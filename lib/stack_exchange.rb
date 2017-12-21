@@ -1,5 +1,7 @@
 require "stack-exchange/version"
 
 module StackExchange
-    # Your code goes here...
+  def self.process(str)
+    str
+  end
 end
